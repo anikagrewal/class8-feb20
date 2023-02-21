@@ -1,0 +1,27 @@
+.main {
+    min-height: 100vh;
+    background-color: var(--primary-colour);
+  }
+
+.nav {
+    display: flex;
+    justify-content: center;
+}
+.navLink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10rem;
+    height: 5rem;
+    background-color: var(--secondary-colour);
+    font-size: 1.75rem;
+    margin-bottom: 5rem;
+}
+
+
+
+.carousel {
+    display: flex;
+    justify-content: center;
+}
+

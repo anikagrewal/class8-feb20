@@ -1,0 +1,40 @@
+.main {
+    min-height: 100vh;
+    background-color: var(--primary-colour);
+  }
+
+  .nav {
+    display: flex;
+    justify-content: center;
+}
+.navLink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10rem;
+    height: 5rem;
+    background-color: var(--secondary-colour);
+    font-size: 1.75rem;
+    margin-bottom: 5rem;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    margin-bottom: 5%;
+}
+
+.num {
+    display: flex;
+    justify-content: center;
+}
+.numb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10rem;
+    height: 5rem;
+    background-color: var(--fourth-colour);
+    font-size: 1.75rem;
+}

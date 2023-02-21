@@ -1,0 +1,28 @@
+.main {
+  min-height: 100vh;
+  background-color: var(--primary-colour);
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+
+.navBar {
+  display: flex;
+  flex-direction: row;
+  gap: 10rem;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.navLink {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 10rem;
+  height: 5rem;
+  background-color: var(--secondary-colour);
+}
